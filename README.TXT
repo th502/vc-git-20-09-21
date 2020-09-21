@@ -5,3 +5,5 @@
 This repository contains details of my thesis.
 
 HELLO
+
+Hey Tomo! Good start to the thesis!
